@@ -1,0 +1,7 @@
+My name is lab1Singleton.Singleton@67b64c45
+My name is lab1Singleton.Singleton@67b64c45
+My name is lab1Singleton.Singleton@67b64c45
+My name is lab1Singleton.Singleton@67b64c45
+My name is lab1Singleton.Singleton@67b64c45
+
+We are writing the text to the file.
